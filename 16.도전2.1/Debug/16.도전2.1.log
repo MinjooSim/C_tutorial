@@ -1,0 +1,5 @@
+﻿  16.2.c
+c:\users\minjoo\desktop\c언어\16.도전2.1\16.2.c(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  16.도전2.1.vcxproj -> C:\Users\MINJOO\Desktop\c언어\16.도전2.1\Debug\16.도전2.1.exe
+  16.도전2.1.vcxproj -> C:\Users\MINJOO\Desktop\c언어\16.도전2.1\Debug\16.도전2.1.pdb (Partial PDB)

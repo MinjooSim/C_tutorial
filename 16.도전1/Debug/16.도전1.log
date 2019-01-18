@@ -1,0 +1,12 @@
+﻿  16.1.c
+c:\users\minjoo\desktop\c언어\16.도전1\16.1.c(16): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\minjoo\desktop\c언어\16.도전1\16.1.c(28): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+c:\users\minjoo\desktop\c언어\16.도전1\16.1.c(29): warning C4133: '함수': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+c:\users\minjoo\desktop\c언어\16.도전1\16.1.c(29): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+c:\users\minjoo\desktop\c언어\16.도전1\16.1.c(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjoo\desktop\c언어\16.도전1\16.1.c(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjoo\desktop\c언어\16.도전1\16.1.c(35): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+  16.도전1.vcxproj -> C:\Users\MINJOO\Desktop\c언어\16.도전1\Debug\16.도전1.exe
+  16.도전1.vcxproj -> C:\Users\MINJOO\Desktop\c언어\16.도전1\Debug\16.도전1.pdb (Partial PDB)

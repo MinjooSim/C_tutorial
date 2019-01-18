@@ -1,0 +1,4 @@
+﻿  10.2.5.c
+c:\users\minjoo\desktop\c언어\10.2.연습5\10.2.5.c(10): warning C4477: 'printf' : 서식 문자열 '%.1lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  10.2.연습5.vcxproj -> C:\Users\MINJOO\Desktop\c언어\10.2.연습5\Debug\10.2.연습5.exe
+  10.2.연습5.vcxproj -> C:\Users\MINJOO\Desktop\c언어\10.2.연습5\Debug\10.2.연습5.pdb (Partial PDB)

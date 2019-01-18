@@ -1,0 +1,8 @@
+﻿  calculator.c
+c:\users\minjoo\documents\visual studio 2017\projects\calculator_swich문\calculator.c(15): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\minjoo\documents\visual studio 2017\projects\calculator_swich문\calculator.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\minjoo\documents\visual studio 2017\projects\calculator_swich문\calculator.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  calculator_swich문.vcxproj -> c:\users\minjoo\documents\visual studio 2017\Projects\calculator_swich문\Debug\calculator_swich문.exe
+  calculator_swich문.vcxproj -> c:\users\minjoo\documents\visual studio 2017\Projects\calculator_swich문\Debug\calculator_swich문.pdb (Partial PDB)

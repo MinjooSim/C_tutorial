@@ -1,0 +1,6 @@
+﻿  16.3.c
+c:\users\minjoo\desktop\c언어\16.도전3\16.3.c(14): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\minjoo\desktop\c언어\16.도전3\16.3.c(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+  16.도전3.vcxproj -> C:\Users\MINJOO\Desktop\c언어\16.도전3\Debug\16.도전3.exe
+  16.도전3.vcxproj -> C:\Users\MINJOO\Desktop\c언어\16.도전3\Debug\16.도전3.pdb (Partial PDB)

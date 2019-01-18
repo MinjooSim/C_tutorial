@@ -1,0 +1,5 @@
+﻿  11.1.5.c
+c:\users\minjoo\documents\visual studio 2017\projects\11.1.연습5\11.1.5.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  11.1.연습5.vcxproj -> c:\users\minjoo\documents\visual studio 2017\Projects\11.1.연습5\Debug\11.1.연습5.exe
+  11.1.연습5.vcxproj -> c:\users\minjoo\documents\visual studio 2017\Projects\11.1.연습5\Debug\11.1.연습5.pdb (Partial PDB)
